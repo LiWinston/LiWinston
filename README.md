@@ -52,7 +52,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LiWinston&count_private=true&show_icons=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=LiWinston" /> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LiWinston&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a> 
 </td>
 
 <td width="50%" align="center">
