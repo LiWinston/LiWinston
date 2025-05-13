@@ -12,11 +12,11 @@
 <picture><img src="https://bitsleep.cn/Husky.png" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently learning **Spring Cloud & distributed microservices**
+ 🔭 I'm currently learning **Spring Cloud & distributed microservices**
 
- 🌱 I’m currently learning **React.js, Vue.js**
+ 🌱 I'm currently learning **React.js, Vue.js**
 
- 💬 Ask me about **Redis, MongoDB, MySQL**( And then we ask somebody who really knows about it)
+ 💬 Ask me about **Redis, MongoDB, MySQL**( If We can't explain it, ask [HuskyAI](https://huskyAI.bitsleep.cn) )
 
  📫 Reach out to me: **hi@bitsleep.cn**
 
