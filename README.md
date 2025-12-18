@@ -91,7 +91,7 @@
     <tr>
       <td width="20%" align="center"><b>🛠️ 工具与系统</b></td>
       <td>
-        • <b><a href="https://github.com/LiWinston/OAS-web-based-oral-assessments">OAS-web-based-oral-assessments</a></b>: 基于 <b>Spring Boot</b> + <b>MySQL</b> + <b>Vue.js</b> 的 Web 预约打分系统，采用 <b>WebSocket</b> 实现实时通知，赋能高校高并发线下考核/评估需求。<br>
+        • <b><a href="https://github.com/LiWinston/OAS-web-based-oral-assessments">OAS-web-based-oral-assessments</a></b>: 基于 <b>Spring Boot</b> + <b>MySQL</b> + <b>React (Next.js)</b> 的 Web 预约打分系统，采用 <b>WebSocket</b> 实现实时通知，赋能高校高并发线下考核/评估需求。<br>
         • <b><a href="https://github.com/LiWinston/RedditAnalysis">Cloud-Native-Social-Analytics</a></b>: 基于 <b>Kubernetes</b>、<b>Fission (Serverless)</b> 和 <b>Elasticsearch</b> 构建的<b>云原生</b>分布式社交舆情分析系统。利用 <b>Spring Boot</b> 和 <b>Python</b> 进行无服务器数据采集与 <b>NLP</b> 处理（<b>情感分析</b>+<b>向量嵌入</b>），通过 Reddit 数据探索澳大利亚居民的"归属感"多维表达。<br>
         • <b><a href="https://github.com/LiWinston/iftech_TODO-List">iftech_TODO-List</a></b>: 基于 <b>Spring Boot</b> + <b>JPA</b> + <b>PostgreSQL</b> 的 TODO 列表应用，支持标签筛选、无穷优先级，具有 <b>DB/向量混合搜索</b> 功能，提出了 <b>JPA</b> 下 <b>PG-Vector</b> 数据向量同表存储的 SOP 方案；实现了基于软删除定时任务的垃圾桶。<br>
         • <b><a href="https://github.com/LiWinston/DeepFake_Forensic">DeepFake_Forensic</a></b>: 用于维州法院刑庭法医媒体鉴伪取证检测的 <b>JavaScript/Java</b> 前后端 - <b>Python/CUDA</b> 计算分离部署解决方案，并通过 <b>Kafka</b> + <b>Minio</b> + <b>MySQL</b> 协作解耦，赋能消费者集群、存储介质横向扩展。<br>
