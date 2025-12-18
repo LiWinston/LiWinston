@@ -70,7 +70,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🛌 bitSleep</b></td>
+      <td align="center"><b>💤 bitSleep</b></td>
       <td>
         • <b>闭源理由</b>: API Key 硬编码了，懒得改了。</br>
         • <b>入选理由</b>: 没人发现它是Byte Dance的躺平版吗</b>
