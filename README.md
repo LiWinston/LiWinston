@@ -93,17 +93,18 @@
       <td>
         • <b><a href="https://github.com/LiWinston/OAS-web-based-oral-assessments">OAS-web-based-oral-assessments</a></b>: 基于 <b>Spring Boot</b> + <b>MySQL</b> + <b>React (Next.js)</b> 的 Web 预约打分系统，采用 <b>WebSocket</b> 实现实时通知，赋能高校高并发线下考核/评估需求。<br>
         • <b><a href="https://github.com/LiWinston/RedditAnalysis">Cloud-Native-Social-Analytics</a></b>: 基于 <b>Kubernetes</b>、<b>Fission (Serverless)</b> 和 <b>Elasticsearch</b> 构建的<b>云原生</b>分布式社交舆情分析系统。利用 <b>Spring Boot</b> 和 <b>Python</b> 进行无服务器数据采集与 <b>NLP</b> 处理（<b>情感分析</b>+<b>向量嵌入</b>），通过 Reddit 数据探索澳大利亚居民的"归属感"多维表达。<br>
-        • <b><a href="https://github.com/LiWinston/iftech_TODO-List">iftech_TODO-List</a></b>: 基于 <b>Spring Boot</b> + <b>JPA</b> + <b>PostgreSQL</b> 的 TODO 列表应用，支持标签筛选、无穷优先级，具有 <b>DB/向量混合搜索</b> 功能，提出了 <b>JPA</b> 下 <b>PG-Vector</b> 数据向量同表存储的 SOP 方案；实现了基于软删除定时任务的垃圾桶。<br>
         • <b><a href="https://github.com/LiWinston/DeepFake_Forensic">DeepFake_Forensic</a></b>: 用于维州法院刑庭法医媒体鉴伪取证检测的 <b>JavaScript/Java</b> 前后端 - <b>Python/CUDA</b> 计算分离部署解决方案，并通过 <b>Kafka</b> + <b>Minio</b> + <b>MySQL</b> 协作解耦，赋能消费者集群、存储介质横向扩展。<br>
-        • <b><a href="https://github.com/LiWinston/Multi-user-Whiteboard">Multi-user-Whiteboard</a></b>: 基于 <b>gRPC</b>、<b>Protobuf</b>、<b>Sentinel</b> 和 <b>JWT</b> 的分布式多用户白板系统，采用 <b>Java</b> + <b>Swing</b> 构建桌面客户端。实现并发绘制的冲突检测与驳回机制，优化三种流控策略。<br>
         • <b><a href="https://github.com/LiWinston/MT-DCT">MT-DCT</a></b>: 基于 <b>Java 21 虚拟线程</b> 构建的高性能 KV 字典服务器，利用虚拟线程实现高吞吐的 <b>Thread-per-Request</b> 模型。内部采用 <b>ConcurrentHashMap</b> 保证并发一致性，模拟 <b>Redis</b> 存储机制。<br>
         • <b><a href="https://github.com/LiWinston/cron-waker">cron-waker</a></b>: 基于 <b>GitHub Actions</b> + <b>YAML</b> 配置的 Cron 调度工作流（和 Render 这个抠门 PAAS 斗智斗勇）。<br>
         • <b><a href="https://github.com/LiWinston/IMAP-email-Agent">IMAP-email-Agent</a></b>: <b>C 语言</b> 编写的轻量级 <b>IMAP</b> 邮件代理，探究 <b>IMAP 协议</b> 本质与 <b>MIME</b> 解析鲁棒性。
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🎮 游戏开发</b></td>
+      <td align="center"><b>🎮 游戏/应用开发</b></td>
       <td>
+        • <b><a href="https://github.com/LiWinston/RunWithMe">Run-With-Me</a></b>: 社交跑步应用，基于 <b>Android (Kotlin)</b> + <b>Spring Boot</b> + <b>MySQL</b> + <b>Redis</b>。集成 <b>Google Maps SDK</b> 实现实时轨迹追踪，封装 <b>Google Weather API</b> 提供天气服务，支持群组周常挑战与实时排行榜。<br>
+        • <b><a href="https://github.com/LiWinston/iftech_TODO-List">iftech_TODO-List</a></b>: 基于 <b>Spring Boot</b> + <b>JPA</b> + <b>PostgreSQL</b> 的 TODO 列表应用，支持标签筛选、无穷优先级，具有 <b>DB/向量混合搜索</b> 功能，提出了 <b>JPA</b> 下 <b>PG-Vector</b> 数据向量同表存储的 SOP 方案；实现了基于软删除定时任务的垃圾桶。<br>
+        • <b><a href="https://github.com/LiWinston/Multi-user-Whiteboard">Multi-user-Whiteboard</a></b>: 基于 <b>gRPC</b>、<b>Protobuf</b>、<b>Sentinel</b> 和 <b>JWT</b> 的分布式多用户白板系统，采用 <b>Java</b> + <b>Swing</b> 构建桌面客户端。实现并发绘制的冲突检测与驳回机制，优化三种流控策略。<br>
         • <b><a href="https://github.com/LiWinston/Sword2">Sword2</a></b>: 基于 <b>Unity Engine</b> + <b>C#</b> 制作的第三人称剑侠角色扮演游戏原型，包含 <b>Shader</b> 编程与 <b>3D 建模</b> (COMP30019)。<br>
         • <b><a href="https://github.com/LiWinston/JavaPackman">JavaPackman</a></b>: 经典吃豆人游戏的 <b>Java</b> 实现，基于 <b>Swing/AWT</b> 图形界面与游戏循环架构。<br>
         • <b><a href="https://github.com/LiWinston/JavaPokerGame">JavaPokerGame</a></b>: 扑克游戏的 <b>Java</b> 实现，采用 <b>面向对象设计模式</b> 构建游戏逻辑。
