@@ -102,7 +102,7 @@
     <tr>
       <td align="center"><b>🎮 游戏/应用开发</b></td>
       <td>
-        • <b><a href="https://github.com/LiWinston/RunWithMe">Run-With-Me</a></b>: 社交跑步应用，基于 <b>Android (Kotlin)</b> + <b>Spring Boot</b> + <b>MySQL</b> + <b>Redis</b>。集成 <b>Google Maps SDK</b> 实现实时轨迹追踪，封装 <b>Google Weather API</b> 提供天气服务，支持群组周常挑战与实时排行榜。<br>
+        • <b><a href="https://github.com/LiWinston/RunWithMe">Run-With-Me</a></b>: 社交跑步应用，基于 <b>Android (Kotlin)</b> + <b>Spring Boot</b> + <b>MySQL</b> + <b>Redis</b>。集成 <b>Google Maps SDK</b> 实现实时轨迹追踪，封装 <b>Google Weather API</b> 天气服务，支持群组周常挑战与实时排行榜。<br>
         • <b><a href="https://github.com/LiWinston/iftech_TODO-List">iftech_TODO-List</a></b>: 基于 <b>Spring Boot</b> + <b>JPA</b> + <b>PostgreSQL</b> 的 TODO 列表应用，支持标签筛选、无穷优先级，具有 <b>DB/向量混合搜索</b> 功能，提出了 <b>JPA</b> 下 <b>PG-Vector</b> 数据向量同表存储的 SOP 方案；实现了基于软删除定时任务的垃圾桶。<br>
         • <b><a href="https://github.com/LiWinston/Multi-user-Whiteboard">Multi-user-Whiteboard</a></b>: 基于 <b>gRPC</b>、<b>Protobuf</b>、<b>Sentinel</b> 和 <b>JWT</b> 的分布式多用户白板系统，采用 <b>Java</b> + <b>Swing</b> 构建桌面客户端。实现并发绘制的冲突检测与驳回机制，优化三种流控策略。<br>
         • <b><a href="https://github.com/LiWinston/Sword2">Sword2</a></b>: 基于 <b>Unity Engine</b> + <b>C#</b> 制作的第三人称剑侠角色扮演游戏原型，包含 <b>Shader</b> 编程与 <b>3D 建模</b> (COMP30019)。<br>
