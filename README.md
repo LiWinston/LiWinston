@@ -93,7 +93,7 @@
       <td>
         • <b><a href="https://github.com/LiWinston/OAS-web-based-oral-assessments">OAS-web-based-oral-assessments</a></b>: 基于 <b>Spring Boot</b> + <b>MySQL</b> + <b>React (Next.js)</b> 的 Web 预约打分系统，采用 <b>WebSocket</b> 实现实时通知，赋能高校高并发线下考核/评估需求。<br>
         • <b><a href="https://github.com/LiWinston/RedditAnalysis">Cloud-Native-Social-Analytics</a></b>: 基于 <b>Kubernetes</b>、<b>Fission (Serverless)</b> 和 <b>Elasticsearch</b> 构建的<b>云原生</b>分布式社交舆情分析系统。利用 <b>Spring Boot</b> 和 <b>Python</b> 进行无服务器数据采集与 <b>NLP</b> 处理（<b>情感分析</b>+<b>向量嵌入</b>），通过 Reddit 数据探索澳大利亚居民的"归属感"多维表达。<br>
-        • <b><a href="https://github.com/LiWinston/DeepFake_Forensic">DeepFake_Forensic</a></b>: 用于维州法院刑庭法医媒体鉴伪取证检测的 <b>JavaScript/Java</b> 前后端 - <b>Python/CUDA</b> 计算分离部署解决方案，并通过 <b>Kafka</b> + <b>Minio</b> + <b>MySQL</b> 协作解耦，赋能消费者集群、存储介质横向扩展。<br>
+        • <b><a href="https://github.com/LiWinston/DeepFake_Forensic">DeepFake_Forensic</a></b>: 用于维州法院刑庭法医媒体鉴伪取证检测的 <b>JS/Java</b> 前后端 - <b>Python/CUDA</b> 计算分离部署解决方案，并通过 <b>Kafka</b> + <b>Minio</b> + <b>MySQL</b> 协作解耦，赋能消费者集群、存储介质横向扩展。<br>
         • <b><a href="https://github.com/LiWinston/MT-DCT">MT-DCT</a></b>: 基于 <b>Java 21 虚拟线程</b> 构建的高性能 KV 字典服务器，利用虚拟线程实现高吞吐的 <b>Thread-per-Request</b> 模型。内部采用 <b>ConcurrentHashMap</b> 保证并发一致性，模拟 <b>Redis</b> 存储机制。<br>
         • <b><a href="https://github.com/LiWinston/cron-waker">cron-waker</a></b>: 基于 <b>GitHub Actions</b> + <b>YAML</b> 配置的 Cron 调度工作流（和 Render 这个抠门 PAAS 斗智斗勇）。<br>
         • <b><a href="https://github.com/LiWinston/IMAP-email-Agent">IMAP-email-Agent</a></b>: <b>C 语言</b> 编写的轻量级 <b>IMAP</b> 邮件代理，探究 <b>IMAP 协议</b> 本质与 <b>MIME</b> 解析鲁棒性。
