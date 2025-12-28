@@ -113,6 +113,7 @@
     <tr>
       <td align="center"><b>📚 学习与作业</b></td>
       <td>
+        • <b><a href="https://github.com/LiWinston/husky-mq-playground">husky-mq-playground</a></b>: 用于练习和验证分布式中间件（如 <b>RocketMQ</b>、<b>Redisson</b>、<b>Seata</b> 等）的实验平台暨游乐场<br>
         • <b><a href="https://github.com/LiWinston/LC">LC</a></b>: 用于调试 LeetCode 问题的 <b>C++</b> 环境，集成 <b>CMake</b> 构建系统。
       </td>
     </tr>

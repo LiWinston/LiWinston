@@ -107,6 +107,7 @@
     <tr>
       <td align="center"><b>📚 Learning & Assignments</b></td>
       <td>
+        • <b><a href="https://github.com/LiWinston/husky-mq-playground">husky-mq-playground</a></b>: An experimental playground for practicing and verifying distributed middleware (such as <b>RocketMQ</b>, <b>Redisson</b>, <b>Seata</b>, etc.), aiming to provide developers with a platform to test these middleware functions.<br>
         • <b><a href="https://github.com/LiWinston/LC">LC</a></b>: A <b>C++</b> environment for debugging LeetCode problems, integrated with <b>CMake</b> build system, <b>STL</b> library, and <b>GDB</b> debugging tools.
       </td>
     </tr>
