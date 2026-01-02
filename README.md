@@ -14,7 +14,7 @@
 <!-- <picture><img src="https://bitsleep.cn/Husky.png" width = 30px align="center"></picture> <br> -->
 **关于我**
 
- 🔭 我目前正在学习 **Spring Cloud & 分布式微服务**
+ 🔭 我目前正在学习 **Agent 开发 & 大数据流处理**
 
  🌱 我目前正在学习 **React.js, Vue.js**
 
