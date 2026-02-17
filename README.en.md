@@ -16,7 +16,7 @@
 
  🔭 I'm currently learning **Spring Cloud & distributed microservices**
 
- 🌱 I'm currently learning **React.js, Vue.js**
+ 🌱 I'm currently learning **React.js, Node.js**
 
  💬 Ask me about **Redis, MongoDB, MySQL**
 
