@@ -20,9 +20,9 @@
 
  💬 Ask me about **Redis, MongoDB, MySQL**
 
- 📫 Reach out to me: **hi@bitsleep.cn**
+ <!-- 📫 Reach out to me: **hi@bitsleep.cn**
 
- ✍ You can find my resume [here](https://bitsleep.cn/sapi/resume/get?filename=ResumeCN.pdf) (Chinese) or [here](https://bitsleep.cn/sapi/resume/get?filename=ResumeEN.pdf) (English)
+ ✍ You can find my resume [here](https://bitsleep.cn/sapi/resume/get?filename=ResumeCN.pdf) (Chinese) or [here](https://bitsleep.cn/sapi/resume/get?filename=ResumeEN.pdf) (English) -->
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 

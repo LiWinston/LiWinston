@@ -20,9 +20,9 @@
 
  💬 欢迎和我讨论 **Redis, MongoDB, MySQL** 
 
- 📫 联系我: **hi@bitsleep.cn**
+ <!-- 📫 联系我: **hi@bitsleep.cn**
 
- ✍ 你可以在 [这里](https://bitsleep.cn/sapi/resume/get?filename=ResumeCN.pdf) (中文) 或 [这里](https://bitsleep.cn/sapi/resume/get?filename=ResumeEN.pdf) (英文) 找到我的简历
+ ✍ 你可以在 [这里](https://bitsleep.cn/sapi/resume/get?filename=ResumeCN.pdf) (中文) 或 [这里](https://bitsleep.cn/sapi/resume/get?filename=ResumeEN.pdf) (英文) 找到我的简历 -->
 
  ⚡ 有趣的事实: **我的第一行代码不是 "Hello World!"**
 
