@@ -37,17 +37,17 @@
   <tbody>
     <tr>
       <td colspan="2" align="center">
-        <i>Due to intellectual property rights, the source code for these projects is not public. <b>HuskyAI Exam Helper</b> is currently in commercial preparation. Others are internship/client projects. Interested parties please contact me privately.</i>
+        <i>Due to intellectual property rights, the source code for these projects is not public. Some are internship/client projects. Interested parties please contact me privately.</i>
       </td>
     </tr>
     <tr>
-      <td width="30%" align="center"><b>🎓 HuskyAI Exam Helper</b></td>
+      <td width="30%" align="center"><b>🔮 HuskyAI Cognitive Lens</b></td>
       <td>
-        <b>Full-stack AI Invisible Assistance & Enhancement System.</b><br>
-        • <b>Invisible Vision</b>: Exclusive <b>DirectX Penetrating Transparent Overlay</b>, achieving <b>recording-invisible</b> physical-level stealth; Integrated <b>YOLOv11</b> vision factory for millisecond-level screen information capture.<br>
-        • <b>Omniscient Brain</b>: Built-in <b>Industrial-grade RAG Engine</b>, utilizing <b>Contextualized Chunking</b> and <b>Local-Global Vector Injection</b> technologies to build a "watertight" domain knowledge base.<br>
-        • <b>Shadow Collaboration</b>: Supports <b>Real-time Voice Stream Analysis</b>, <b>Anthropomorphic Auto-Input</b>, and <b>Cross-device Remote Control</b>, providing a comprehensive immersive assistance experience.<br>
-        • <b>Positioning</b>: An <b>Asymmetric Competitive Advantage</b> solution customized for high-risk, high-difficulty scenarios.
+        <b>Full-stack Real-time Cognitive Enhancement & Intelligent Assistance System.</b><br>
+        • <b>Invisible Vision</b>: Exclusive <b>DirectX Penetrating Transparent Overlay</b>, achieving <b>recording-invisible</b> physical-level stealth; Integrated <b>YOLOv11</b> vision factory for millisecond-level screen information stream capture and parsing.<br>
+        • <b>Omniscient Brain</b>: Built-in <b>Industrial-grade RAG Engine</b>, utilizing <b>Knowledge Graph-driven</b>, <b>Contextualized Chunking</b> and <b>Gaussian-smoothed Vector Injection</b> hybrid technologies to build a "watertight" domain knowledge base.<br>
+        • <b>Shadow Collaboration</b>: Supports <b>Real-time Voice Stream Semantic Analysis</b>, <b>Anthropomorphic Auto-Input</b>, and <b>Cross-device Remote Control</b>, providing a comprehensive immersive human-machine collaboration experience.<br>
+        • <b>Positioning</b>: A <b>real-time cognitive enhancement</b> solution targeting time-critical information retrieval and decision-support scenarios.
       </td>
     </tr>
     <tr>
