@@ -14,11 +14,11 @@
 <!-- <picture><img src="https://bitsleep.cn/Husky.png" width = 30px align="center"></picture> <br> -->
 **关于我**
 
- 🔭 我目前正在学习 **Agent 开发 & 大数据流处理**
+ 🔭 我目前正在学习 **K8S & GPU调度**
 
- 🌱 我目前正在学习 **React.js, Node.js**
+ 🌱 我目前偶尔涉猎 **Sglang & Mooncake**
 
- 💬 欢迎和我讨论 **Redis, MongoDB, MySQL** 
+ 💬 欢迎和我讨论 **MaaS聚合网关, Agents, 稳定性与可观测** 
 
  <!-- 📫 联系我: **hi@bitsleep.cn**
 
