@@ -14,11 +14,11 @@
 <picture><img src="https://bitsleep.cn/Husky.png" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I'm currently learning **Spring Cloud & distributed microservices**
-
- 🌱 I'm currently learning **React.js, Node.js**
-
- 💬 Ask me about **Redis, MongoDB, MySQL**
+ 🔭 I'm currently learning **Kubernetes (K8s) & GPU Scheduling**
+ 
+ 🌱 I occasionally explore **SGLang & Mooncake**
+ 
+ 💬 Ask me about **MaaS Aggregation Gateways, Agents, Reliability & Observability**
 
  <!-- 📫 Reach out to me: **hi@bitsleep.cn**
 
